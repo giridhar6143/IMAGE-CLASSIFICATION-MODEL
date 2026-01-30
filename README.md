@@ -5,6 +5,9 @@ INTERN ID : CTIS2163
 DOMAIN : MACHINE LEARNING 
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH`
+
+
+
 Task 2: Sentiment Analysis Using NLP
 Task Description
 Task 2 focuses on Sentiment Analysis, a key application of Natural Language Processing (NLP). The objective is to classify customer reviews as positive or negative using TF-IDF vectorization and Logistic Regression.
